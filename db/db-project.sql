@@ -3,7 +3,6 @@
 -- Schema Simple para Prototipo
 -- ==============================================
 
-CREATE DATABASE IF NOT EXISTS db-project;
 
 -- Tabla de Miembros/Usuarios
 CREATE TABLE miembros (
